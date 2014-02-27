@@ -5,18 +5,18 @@ This is a alpha version of this package. This is purely proof that it can work.
 Installation
 ===
 
-`apm install atom-jshint`
+`apm install atom-jshint` Or through the `cmd+shift+p` menu in Atom itself.
 
 Usage
 ===
 
-This will run against the whole file.
-Hit `ctrl+alt+j` or click `Packages > JSHint > Run against file`
+This package will run against your currently open file on save.
 
 
 Features not yet implemented:
   * Custom config files
   * Output in a nicer way
+  * Gutter notifications of errors
 
 
 The output is now displayed in the status bar.
