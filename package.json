@@ -1,15 +1,15 @@
 {
   "name": "atom-jshint",
-  "main": "./lib/atom-jshint",
+  "main": "./index.js",
   "version": "0.0.2",
   "private": true,
   "description": "Reports jshint against your code.",
-  "activationEvents": [
-    "atom-jshint:run"
-  ],
   "repository": "https://github.com/Joezo/atom-jshint",
   "license": "MIT",
   "engines": {
     "atom": ">0.50.0"
+  },
+  "dependencies": {
+    "emissary": "1.x"
   }
 }
