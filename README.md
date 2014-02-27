@@ -1,6 +1,12 @@
 # atom-jshint package
 
 This is a *very* alpha version of this package. This is purely proof that it can work.
+
+Installation
+===
+
+`apm install atom-jshint`
+
 Usage
 ===
 
