@@ -19,6 +19,7 @@ Features not yet implemented:
   * Gutter notifications of errors
 
 
+The affected line numbers will now turn red on error.
 The output is now displayed in the status bar.
 
 ![Passed](http://cl.ly/image/0v1K3M382m1Q/Image%202014-02-27%20at%201.59.10%20pm.png)
