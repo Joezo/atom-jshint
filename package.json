@@ -5,7 +5,7 @@
   "private": true,
   "description": "Reports jshint against your code.",
   "activationEvents": ["atom-jshint:run"],
-  "repository": "https://github.com/atom/atom-jshint",
+  "repository": "https://github.com/Joezo/atom-jshint",
   "license": "MIT",
   "engines": {
     "atom": ">0.50.0"
