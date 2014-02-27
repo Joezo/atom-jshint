@@ -1,7 +1,7 @@
 {
   "name": "atom-jshint",
   "main": "./lib/atom-jshint",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "private": true,
   "description": "Reports jshint against your code.",
   "activationEvents": [
