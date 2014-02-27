@@ -9,7 +9,7 @@
     'submenu': [
       'label': 'JSHint'
       'submenu': [
-        { 'label': 'Run against selection', 'command': 'atom-jshint:run' }
+        { 'label': 'Run against file', 'command': 'atom-jshint:run' }
       ]
     ]
   }
