@@ -1,7 +1,7 @@
 {
   "name": "atom-jshint",
   "main": "./index.js",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "private": true,
   "description": "Reports jshint against your code.",
   "repository": "https://github.com/Joezo/atom-jshint",
