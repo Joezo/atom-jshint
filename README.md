@@ -1,26 +1,30 @@
-# atom-jshint package
+# Atom-jshint
 
-This is a alpha version of this package. This is purely proof that it can work.
+This is an alpha version of this package.
 
 Installation
 ===
 
-`apm install atom-jshint` Or through the `cmd+shift+p` menu in Atom itself.
+`apm install atom-jshint`
+
+Or through the `cmd+shift+p` menu in Atom itself.
 
 Usage
 ===
 
 This package will run against your currently open file on save.
 
-
-Features not yet implemented:
-  * Custom config files
-  * Output in a nicer way
-  * Gutter notifications of errors
-
-
-The affected line numbers will now turn red on error.
-The output is now displayed in the status bar.
+Included features
+===
+ * Supports custom .jshintrc file in project root
+ * Line number turns red when error on that line
+ * First error is displayed in status bar
 
 ![Passed](http://cl.ly/image/0v1K3M382m1Q/Image%202014-02-27%20at%201.59.10%20pm.png)
 ![Failed](http://cl.ly/image/3r2t1i3C2o3D/Image%202014-02-27%20at%201.59.29%20pm.png)
+
+Features not yet implemented
+===
+
+  * Output in a nicer way
+  * Hover over line number to see applicable error
