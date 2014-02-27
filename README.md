@@ -16,6 +16,7 @@ This package will run against your currently open file on save.
 
 Included features
 ===
+ * Supports jshintConfig in package.json
  * Supports custom .jshintrc file in project root
  * Line number turns red when error on that line
  * First error is displayed in status bar
