@@ -1,4 +1,3 @@
-// var emissary = require('emissary');
 var AtomJsHint = require('./lib/atom-jshint.js');
 
 module.exports = {

@@ -1,6 +1,6 @@
 # atom-jshint package
 
-This is a *very* alpha version of this package. This is purely proof that it can work.
+This is a alpha version of this package. This is purely proof that it can work.
 
 Installation
 ===
