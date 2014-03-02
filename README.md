@@ -2,7 +2,7 @@
 
 A [package](http://atom.io/packages/atom-jshint) for [Atom](https://atom.io).
 
-Validates your JS files against [JSHint](http://jshint.com) on save.
+Validates your JS files against [JSHint](http://jshint.com) on save and as you type.
 
 Installation
 ===
@@ -14,7 +14,7 @@ Or through the `cmd+shift+p` menu in Atom itself.
 Usage
 ===
 
-This package will run against your currently open file on save.
+This package will run against your currently open file as you type and when you save.
 
 Included features
 ===
@@ -22,6 +22,7 @@ Included features
  * Supports custom .jshintrc file in project root
  * Line number turns red when error on that line
  * Once you move your cursor to a line with an error, it will show in the status bar.
+ * Configure how you want JSHint to run.
 
 ![Status on line](http://cl.ly/image/000i1Z2c2g3j/Image%202014-03-02%20at%208.41.18%20am.png)
 
