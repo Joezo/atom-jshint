@@ -1,6 +1,8 @@
 # Atom-jshint
 
-This is an alpha version of this package.
+A [package](http://atom.io/packages/atom-jshint) for [Atom](https://atom.io).
+
+Validates your JS files against [JSHint](http://jshint.com) on save.
 
 Installation
 ===
@@ -19,10 +21,9 @@ Included features
  * Supports jshintConfig in package.json
  * Supports custom .jshintrc file in project root
  * Line number turns red when error on that line
- * First error is displayed in status bar
+ * Once you move your cursor to a line with an error, it will show in the status bar.
 
-![Passed](http://cl.ly/image/0v1K3M382m1Q/Image%202014-02-27%20at%201.59.10%20pm.png)
-![Failed](http://cl.ly/image/3r2t1i3C2o3D/Image%202014-02-27%20at%201.59.29%20pm.png)
+![Status on line](http://cl.ly/image/000i1Z2c2g3j/Image%202014-03-02%20at%208.41.18%20am.png)
 
 Features not yet implemented
 ===
