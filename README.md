@@ -4,6 +4,8 @@ The original and most used JSHint [package](http://atom.io/packages/atom-jshint)
 
 Validates your JS files against [JSHint](http://jshint.com) on save and as you type.
 
+![Scrollable pane](http://cl.ly/image/2N2z0z420t2n/Image%202014-03-03%20at%208.35.27%20pm.png)
+
 Installation
 ===
 
@@ -23,8 +25,8 @@ Included features
  * Line number turns red when error on that line
  * Once you move your cursor to a line with an error, it will show in the status bar.
  * Configure how you want JSHint to run.
+ * Shows a scrollable pane of errors
 
-![Status on line](http://cl.ly/image/000i1Z2c2g3j/Image%202014-03-02%20at%208.41.18%20am.png)
 
 Contributing
 ===
