@@ -1,6 +1,6 @@
 # Atom-jshint
 
-A [package](http://atom.io/packages/atom-jshint) for [Atom](https://atom.io).
+The original JSHint [package](http://atom.io/packages/atom-jshint) for [Atom](https://atom.io).
 
 Validates your JS files against [JSHint](http://jshint.com) on save and as you type.
 
@@ -9,7 +9,7 @@ Installation
 
 `apm install atom-jshint`
 
-Or through the `cmd+shift+p` menu in Atom itself.
+Or Preferences > Packages > Search for `atom-jshint` *(install `atom-jshint`, not `jshint`)*.
 
 Usage
 ===
@@ -26,8 +26,7 @@ Included features
 
 ![Status on line](http://cl.ly/image/000i1Z2c2g3j/Image%202014-03-02%20at%208.41.18%20am.png)
 
-Features not yet implemented
+Contributing
 ===
 
-  * Output in a nicer way
-  * Hover over line number to see applicable error
+I'd love for people to get involved in the development of this plugin, so please do create issues and pull requests.
