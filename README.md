@@ -1,6 +1,6 @@
 # Atom-jshint
 
-The original JSHint [package](http://atom.io/packages/atom-jshint) for [Atom](https://atom.io).
+The original and most used JSHint [package](http://atom.io/packages/atom-jshint) for [Atom](https://atom.io).
 
 Validates your JS files against [JSHint](http://jshint.com) on save and as you type.
 
