@@ -3,7 +3,7 @@
   "main": "./index.js",
   "version": "1.0.1",
   "private": true,
-  "description": "Reports jshint against your code.",
+  "description": "Validates your JS against JSHint as you type. The original and most popular.",
   "repository": "https://github.com/Joezo/atom-jshint",
   "license": "MIT",
   "engines": {
