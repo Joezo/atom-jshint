@@ -1,7 +1,7 @@
 {
   "name": "atom-jshint",
   "main": "./index.js",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "private": true,
   "description": "Validates your JS against JSHint as you type. The original and most used.",
   "repository": "https://github.com/Joezo/atom-jshint",
