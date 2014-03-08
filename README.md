@@ -21,7 +21,7 @@ This package will run against your currently open file as you type and when you 
 Included features
 ===
  * Supports jshintConfig in package.json
- * Supports custom .jshintrc file in project root
+ * Supports custom .jshintrc file in project root and all parent directories
  * Line number turns red when error on that line
  * Once you move your cursor to a line with an error, it will show in the status bar.
  * Configure how you want JSHint to run.
