@@ -4,7 +4,8 @@ module.exports = {
   configDefaults: {
     hintOnSave: true,
     hintOnModify: true,
-    showErrorPanel: true
+    showErrorPanel: true,
+    watchConfig: true
   },
   activate: function(){
     return this.atomJsHint = new AtomJsHint();
