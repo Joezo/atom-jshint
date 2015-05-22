@@ -1,11 +1,23 @@
 var AtomJsHint = require('./lib/atom-jshint.js');
 
 module.exports = {
-  configDefaults: {
-    hintOnSave: true,
-    hintOnModify: true,
-    showErrorPanel: true,
-    watchConfig: true
+  config: {
+    hintOnSave: {
+      type: 'boolean',
+      default: true
+    },
+    hintOnModify: {
+      type: 'boolean',
+      default: true
+    },
+    showErrorPanel: {
+      type: 'boolean',
+      default: true
+    },
+    watchConfig: {
+      type: 'boolean',
+      default: true
+    }
   },
   activate: function(){
     return this.atomJsHint = new AtomJsHint();
