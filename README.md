@@ -1,3 +1,5 @@
+I'm looking for a new maintainer for this project. I'm afraid I no longer use it and do not have the time to maintain it :(
+
 # Atom-jshint
 
 The original JSHint [package](http://atom.io/packages/atom-jshint) for [Atom](https://atom.io).
